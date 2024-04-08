@@ -38,7 +38,7 @@ const questions = [
     },
 
     {
-        question: "which is the largest desert in the world?",
+        question: "which is the largest Continent in the world?",
         answers: [
 
             {text: "Asia",correct: "false"}, 
